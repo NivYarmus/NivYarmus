@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 My name is Niv Yarmus
-I'm a 12th grade student in Herzog High School, Kfar Saba
-I major in Computer Science, Automata Theory and Physics
+I'm a 12th grade student in Herzog High School, Kfar Saba, majoring in Computer Science, Automata Theory and Physics
 
 <!--
 **NivYarmus/NivYarmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
