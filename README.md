@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Niv Yarmus.
-I am a 12th grade student, majoring in Coumputer Science, Automata Theory and Physics.
+I am a 12th grade student, majoring in Coumputer Science and Physics.
 
 <!--
 **NivYarmus/NivYarmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
