@@ -15,7 +15,7 @@ The "White Night" project is a night in which students learn a bunch of encrypti
 As the host my job was to:
 1. Write the code for the challenges.
 2. Learn and explain the encoding and encryptions to the students and other mentors.
-3. Walk around the class of 50-ish students all night and help anyone who was struggling.
+3. Walk around a class of 50-ish students all night and help anyone who was struggling.
 
 <!--
 **NivYarmus/NivYarmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
